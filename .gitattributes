@@ -1,0 +1,3 @@
+# Normalize line endings in the repository to LF,
+# while letting Git convert to the native ending on checkout.
+* text=auto
